@@ -2,7 +2,7 @@
 layout: post
 title:  "강윤이란 무엇인가?"
 date:   2021-08-27 01:05:04
-categories: dictionary
+categories: jekyll update
 ---
 
 # 강윤이란 무엇인가??
