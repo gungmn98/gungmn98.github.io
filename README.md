@@ -32,3 +32,29 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+---
+layout: post
+title:  "Welcome to Gungle!"
+date:   2021-08-27 11:55:04
+categories: jekyll update
+---
+
+{% highlight ruby %}
+
+{% endhighlight %}
+
+If you have any problems, please report them by e-mail. kangkangminmin070908@gmail.com
+
+[Go to email]:      kangkangminmin070908@gmail.com
+
+
+
+post copyable
