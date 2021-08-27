@@ -1,32 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gungmn98/gungmn98.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to gungle
+겅글에 오신것을 환영합니다. 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+gungle info
 
-# Header 1
-## Header 2
-### Header 3
+# gaming
+## Ultimate
+### System
 
-- Bulleted
-- List
+- 겅글 시스템
+  검색포털, 사진검색, 웹서핑, 게임등
+- List of Version
+  20210827 Ver.1
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**중요**  _gungle_은 `앞으로` 발전합니다
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
