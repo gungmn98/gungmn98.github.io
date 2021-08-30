@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kangmin games
+title: Entry
 permalink: /games/
 ---
 ### 환영합니다! 
