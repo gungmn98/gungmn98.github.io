@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "중1-1 1단원 소인수분해"
-date:   2021-08-31 09:07:45
-categories: kangmin math
+title:  "Your Awesome Name"
+date:   2000-01-01 00:00:00
+categories: your tag
 ---
-### 1학년 1학기 1단원 "소인수분해"
-
