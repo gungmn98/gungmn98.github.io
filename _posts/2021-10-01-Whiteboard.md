@@ -6,9 +6,3 @@ categories: jekyll update
 ---
 
 [Go to Whiteboard](http://mid.m-teacher.co.kr/Viewer/common/activeHelper/board.html)
-
-
-
-
-
-
