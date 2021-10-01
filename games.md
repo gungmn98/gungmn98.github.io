@@ -153,7 +153,7 @@ function factorial(n)
 <INPUT TYPE="radio" NAME="stupnjevi" CHECKED>Rad
 <INPUT TYPE="radio" NAME="stupnjevi">Deg
 </FONT></TD>
-<TD ALIGN=CENTER BGCOLOR="#EEEEEE"><A TITLE=" Eni Generalic " HREF="http://www.ktf-split.hr/~eni/" TARGET="myHome"><FONT FACE="Times" SIZE="2"><I><B>EniG.
+<TD ALIGN=CENTER BGCOLOR="#EEEEEE"><A TITLE=" Eni Generalic " HREF="http://www.ktf-split.hr/~eni/" TARGET="myHome"><FONT FACE="Times" SIZE="2"><I><B>EniG.<B/>
 <TD><INPUT HEIGHT="24" WIDTH="38" TYPE="button" NAME="C" VALUE="Cls" ONCLICK="this.form.display.value = ''" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 24px; WIDTH: 38px"></TD>
 </TR>
 
