@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whiteboard"
-date:   2021-10-01 9:59:35
+date:   2021-10-01 09:59:35
 categories: jekyll update
 ---
 
