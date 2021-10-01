@@ -222,17 +222,7 @@ function factorial(n)
 <TD><INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="exp" VALUE="exp" ONCLICK="dodajBroj(1, 'E')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px"></TD>
 <TD><INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="+" VALUE="+" ONCLICK="dodajBroj(1, '+')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px"></TD>
 <TD COLSPAN=2 ALIGN=CENTER><INPUT HEIGHT="32" WIDTH="82" TYPE="button" NAME=enter ONCLICK="izracunaj(1, racunalo.izaZareza.options[racunalo.izaZareza.selectedIndex].value, document.racunalo.display)" type=button VALUE="=" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 82px"></TD>
-</TR>
-</TABLE>
-</TD>
-</TR>
-</TABLE>
-</FORM>
 
-
-
-</BODY>
-</HTML>
 
 
 
