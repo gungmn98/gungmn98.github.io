@@ -4,4 +4,4 @@ title: Tools
 permalink: /tools/
 ---
 
-<iframe src=https://kangkangminmin0709.wixsite.com/my-site>
+[Go to Tools](https://kangkangminmin0709.wixsite.com/my-site)
